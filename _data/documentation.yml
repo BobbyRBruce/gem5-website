@@ -76,6 +76,8 @@ docs:
           url: http://doxygen.gem5.org/release/v23-0-0-0/index.html
         - page: v23.0.0.1
           url: http://doxygen.gem5.org/release/v23-0-0-1/index.html
+        - page: v24.1.0.1
+          url: http://doxygen.gem5.org/release/v24-1-0-1/index.html
 
     - title: gem5 standard library
       id: gem5-standard-library
